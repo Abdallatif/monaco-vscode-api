@@ -18,5 +18,8 @@
     "editor.experimental.asyncTokenization": true,
     "terminal.integrated.tabs.title": "${sequence}",
     "typescript.tsserver.log": "normal",
-    "workbench.sideBar.location": "left"
+    "workbench.sideBar.location": "left",
+    "npm.fetchOnlinePackageInfo": false,
+    "typescript.experimental.tsserver.web.typeAcquisition.enabled": false,
+    "typescript.disableAutomaticTypeAcquisition": true
 }
